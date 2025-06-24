@@ -8,7 +8,8 @@ This repository showcases hands-on AI apps built using Python, Gradio, and real-
 
 1. [Sentiment Analysis App](#1-sentiment-analysis-app)
 2. [Diabetes Prediction App](#2-diabetes-prediction-app)
-3. [About Me](#-about-me)
+3. [Cat vs Dog Classifier (CNN)](#3-cat-vs-dog-classifier)
+4. [About Me](#-about-me)
 
 ---
 
@@ -41,7 +42,25 @@ Predicts the likelihood of **diabetes** based on health metrics like Glucose, BM
 - `app.py`: Gradio interface
 - `diabetes_model.pkl`: Trained classifier
 - `scaler.pkl`: Preprocessing scaler
-- `requirements.txt`: Dependencies for Hugging Face Space
+- `requirements.txt`: Dependencies
+
+---
+
+### 3. Cat vs Dog Classifier (CNN) <a name="3-cat-vs-dog-classifier"></a>
+[![Live](https://img.shields.io/badge/status-deployed-blue)](https://huggingface.co/spaces/MaithiliG/cat-vs-dog-cnn)
+[![Model](https://img.shields.io/badge/model-trained-success)](https://huggingface.co/spaces/MaithiliG/cat-vs-dog-cnn)  
+**Model Type:** Convolutional Neural Network (CNN)  
+**Frontend:** Gradio  
+**Deployment:** Hugging Face Spaces  
+📍 **URL:** [Open App](https://huggingface.co/spaces/MaithiliG/cat-vs-dog-cnn)
+
+**Description:**  
+Image classifier that predicts whether an uploaded image is of a **Cat** 🐱 or a **Dog** 🐶 using a CNN trained on CIFAR-10 subset.
+
+**Project Files:**
+- `app.py`: Gradio app code
+- `cat_vs_dog_cnn.h5`: Trained CNN model
+- `requirements.txt`: Dependencies
 
 ---
 
@@ -55,6 +74,5 @@ These projects are focused on **hands-on learning**, real deployment, and **inte
 - [LinkedIn](https://www.linkedin.com/in/maithili-gulghane-027ab3aa)
 
 ---
-
 
 > 📢 *More apps like price prediction, CV classification, OCR, and recommendation systems coming soon...*

@@ -54,7 +54,7 @@ Uploads an image of a **cat or dog** and predicts the class using a custom-train
 **Model Type:** GPT-2 (Text Generation)
 **Frontend:** Gradio
 **Deployment:** Hugging Face Spaces
-📍 **URL:** [Open App](https://huggingface.co/spaces/MaithiliG/gpt2-headline-generator)
+📍 **URL:** [Open App](https://huggingface.co/spaces/MaithiliG/headline-generator-gpt2)
 
 **Description:**
 Generates catchy **headlines or news-style phrases** from your custom prompts using GPT-2. Includes:

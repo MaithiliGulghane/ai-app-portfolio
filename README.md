@@ -74,7 +74,7 @@ Generates catchy **headlines or news-style phrases** from your custom prompts us
 **Model Type:** Rule-based + Deep Learning-ready  
 **Frontend:** Gradio (Split Layout)  
 **Deployment:** Hugging Face Spaces  
-📍 **URL:** [Open App](https://huggingface.co/spaces/MaithiliG/stock-analyzer-app)
+📍 **URL:** [Open App](https://huggingface.co/spaces/MaithiliG/StockAnalyzer)
 
 **Description:**  
 Provides a stock recommendation — **BUY**, **SELL**, or **HOLD** — based on analysis of technical indicators like:

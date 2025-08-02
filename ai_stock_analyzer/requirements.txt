@@ -1,0 +1,6 @@
+gradio
+yfinance
+plotly
+pandas
+numpy
+feedparser
